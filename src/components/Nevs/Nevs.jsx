@@ -45,88 +45,61 @@ const Nevs = () => {
         <Slider {...settings}>
           <div className="nevs__card">
             <div className="nevs__card--box">
+              <div className="nevs__card--img nevs__card--img-1"></div>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Consectetur ipsum veritatis, ullam optio dolor doloribus
-                corrupti et illo. Cumque, deleniti. saLorem ipsum dolor sit
-                amet, consectetur adipisicing elit. Consectetur ipsum veritatis,
-                ullam optio dolor doloribus corrupti et illo. Cumque,
-                deleniti.lom saLorem ipsum dolor sit amet, consectetur
-                adipisicing elit. Consectetur ipsum veritatis, ullam optio dolor
-                doloribus corrupti et illo. Cumque, deleniti.lom
+                <span>O</span>‘ZBEKISTON ISHTIROKIDAGI DUNYODAGI ENG KATTA
+                QIShLOQ XO‘JALIGI KO‘RGAZMASI DAVOM ETMOQDA
               </p>
               <button>Read More</button>
             </div>
           </div>
           <div className="nevs__card">
             <div className="nevs__card--box">
+              <div className="nevs__card--img nevs__card--img-2"></div>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Consectetur ipsum veritatis, ullam optio dolor doloribus
-                corrupti et illo. Cumque, deleniti. saLorem ipsum dolor sit
-                amet, consectetur adipisicing elit. Consectetur ipsum veritatis,
-                ullam optio dolor doloribus corrupti et illo. Cumque,
-                deleniti.lom saLorem ipsum dolor sit amet, consectetur
-                adipisicing elit. Consectetur ipsum veritatis, ullam optio dolor
-                doloribus corrupti et illo. Cumque, deleniti.lom
+                <span>A</span>GROKLASTERLARDA “BETTER COTTON INITIATIVES”
+                STANDARTLARI JORIY ETILADI
               </p>
               <button>Read More</button>
             </div>
           </div>
           <div className="nevs__card">
             <div className="nevs__card--box">
+              <div className="nevs__card--img nevs__card--img-3"></div>
+
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Consectetur ipsum veritatis, ullam optio dolor doloribus
-                corrupti et illo. Cumque, deleniti. saLorem ipsum dolor sit
-                amet, consectetur adipisicing elit. Consectetur ipsum veritatis,
-                ullam optio dolor doloribus corrupti et illo. Cumque,
-                deleniti.lom saLorem ipsum dolor sit amet, consectetur
-                adipisicing elit. Consectetur ipsum veritatis, ullam optio dolor
-                doloribus corrupti et illo. Cumque, deleniti.lom
+                <span>M</span>EVALARNI SOVUTGICHDA SAQLASH: TALABLARI,
+                MUDDATLARI
               </p>
               <button>Read More</button>
             </div>
           </div>
           <div className="nevs__card">
             <div className="nevs__card--box">
+              <div className="nevs__card--img nevs__card--img-4"></div>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Consectetur ipsum veritatis, ullam optio dolor doloribus
-                corrupti et illo. Cumque, deleniti. saLorem ipsum dolor sit
-                amet, consectetur adipisicing elit. Consectetur ipsum veritatis,
-                ullam optio dolor doloribus corrupti et illo. Cumque,
-                deleniti.lom saLorem ipsum dolor sit amet, consectetur
-                adipisicing elit. Consectetur ipsum veritatis, ullam optio dolor
-                doloribus corrupti et illo. Cumque, deleniti.lom
+                <span>Q</span>ISH MAVSUMI: SABZAVOT MAHSULOTLARINI SAQLASH VA
+                ZAXIRA QILISHDA NIMALARGA EʼTIBOR QARATISH KERAK?
               </p>
               <button>Read More</button>
             </div>
           </div>
           <div className="nevs__card">
             <div className="nevs__card--box">
+              <div className="nevs__card--img nevs__card--img-5"></div>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Consectetur ipsum veritatis, ullam optio dolor doloribus
-                corrupti et illo. Cumque, deleniti. saLorem ipsum dolor sit
-                amet, consectetur adipisicing elit. Consectetur ipsum veritatis,
-                ullam optio dolor doloribus corrupti et illo. Cumque,
-                deleniti.lom saLorem ipsum dolor sit amet, consectetur
-                adipisicing elit. Consectetur ipsum veritatis, ullam optio dolor
-                doloribus corrupti et illo. Cumque, deleniti.lom
+                <span>"E</span>-AUKSION” ELEKTRON TANLOVI: DEHQONCHILIK VA
+                DAROMAD UCHUN QULAY IMKONIYAT
               </p>
               <button>Read More</button>
             </div>
           </div>
           <div className="nevs__card">
             <div className="nevs__card--box">
+              <div className="nevs__card--img nevs__card--img-6"></div>
+
               <p>
-                saLorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Consectetur ipsum veritatis, ullam optio dolor doloribus
-                corrupti et illo. Cumque, deleniti.lom saLorem ipsum dolor sit
-                amet, consectetur adipisicing elit. Consectetur ipsum veritatis,
-                ullam optio dolor doloribus corrupti et illo. Cumque,
-                deleniti.lom
+                <span>Y</span>ERNI LAZER BILAN TEKISLASHNING AFZALLIKLARI
               </p>
               <button>Read More</button>
             </div>

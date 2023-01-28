@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, useHref } from "react-router-dom";
 
-import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
+import { AiFillFacebook, AiFillInstagram } from "react-icons/ai";
 import { BiPaperPlane } from "react-icons/bi";
 import { DiCssdeck } from "react-icons/di";
 
@@ -55,10 +55,10 @@ export const Layout = ({ children }) => {
         </Div2>
         <Div3>
           <SocialIcons href="#" target="_blank">
-            <AiFillGithub size="3rem" />
+            <AiFillFacebook size="3rem" />
           </SocialIcons>
           <SocialIcons href="#" target="_blank">
-            <AiFillLinkedin size="3rem" />
+            <AiFillInstagram size="3rem" />
           </SocialIcons>
           <SocialIcons href="#" target="_blank">
             <BiPaperPlane size="3rem" />
