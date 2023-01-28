@@ -16,7 +16,7 @@ const data = [
   { number: 5, text: "Agro Tex" },
   { number: 6, text: "Agro Market" },
   { number: 7, text: "Agro Contract" },
-  { number: 8, text: "Sponosor" },
+  { number: 8, text: "Sponosors" },
 ];
 
 const Acomplishments = () => {
