@@ -1,4 +1,9 @@
 import agro from "../Assets/Images/agro.jpg";
+import aaa from "../Assets/Images/aaa.jpg";
+import nav from "../Assets/Images/nav.jpg";
+import tex from "../Assets/Images/tex.jpg";
+import market from "../Assets/Images/market-2.jpg";
+// import tex from "../Assets/Images/tex.jpg";
 
 export const projects = [
   {
@@ -12,35 +17,35 @@ export const projects = [
     title: "Agro Forum",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur ipsum veritatis, ullam optio dolor doloribus corrupti et illo. Cumque, deleniti.",
-    image: agro,
+    image: tex,
     id: 0,
   },
   {
     title: "Agro Detect",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur ipsum veritatis, ullam optio dolor doloribus corrupti et illo. Cumque, deleniti.",
-    image: agro,
+    image: aaa,
     id: 0,
   },
   {
     title: "Agro Job",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur ipsum veritatis, ullam optio dolor doloribus corrupti et illo. Cumque, deleniti.",
-    image: agro,
+    image: nav,
     id: 0,
   },
   {
     title: "Agro Tex",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur ipsum veritatis, ullam optio dolor doloribus corrupti et illo. Cumque, deleniti.",
-    image: agro,
+    image: tex,
     id: 0,
   },
   {
     title: "Agro Market",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur ipsum veritatis, ullam optio dolor doloribus corrupti et illo. Cumque, deleniti.",
-    image: agro,
+    image: market,
     id: 0,
   },
 ];

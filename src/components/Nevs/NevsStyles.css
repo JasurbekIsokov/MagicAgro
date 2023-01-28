@@ -1,0 +1,16 @@
+/* categorieBox */
+
+.categorieBox {
+  transition: all 0.3s;
+}
+
+.categorieBox:hover h5 {
+  color: #212d45;
+}
+
+.categorieBox:hover {
+  background-color: white;
+  transform: scale(1.04);
+}
+
+/* Nevs */

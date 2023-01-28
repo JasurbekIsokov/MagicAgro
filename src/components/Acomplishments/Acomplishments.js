@@ -30,12 +30,18 @@ const Acomplishments = () => {
 
   return (
     <Section id="categoeis">
-      <SectionTitle>Categories</SectionTitle>
+      <SectionTitle>Foydalanish bo'limari</SectionTitle>
       <Boxes>
         {data.map((card, index) => (
-          <Box key={index} onClick={() => handleClick(index)}>
-            <BoxNum>{`${card.text}`}</BoxNum>
-          </Box>
+          <div data-aos={index % 2 === 0 ? "fade-right" : "fade-left"}>
+            <Box
+              key={index}
+              onClick={() => handleClick(index)}
+              className="categorieBox"
+            >
+              <BoxNum>{`${card.text}`}</BoxNum>
+            </Box>
+          </div>
         ))}
       </Boxes>
       <SectionDivider />
