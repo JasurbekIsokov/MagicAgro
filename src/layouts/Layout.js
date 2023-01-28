@@ -38,13 +38,13 @@ export const Layout = ({ children }) => {
         </Div1>
         <Div2>
           <li>
-            <a href="#projects">
-              <NavLink>Projects</NavLink>
+            <a href="#categoeis">
+              <NavLink>Categories</NavLink>
             </a>
           </li>
           <li>
-            <a href="#tech">
-              <NavLink>Technologies</NavLink>
+            <a href="#projects">
+              <NavLink>Projects</NavLink>
             </a>
           </li>
           <li>
@@ -54,16 +54,13 @@ export const Layout = ({ children }) => {
           </li>
         </Div2>
         <Div3>
-          <SocialIcons href="https://github.com/JasurbekIsokov" target="_blank">
+          <SocialIcons href="#" target="_blank">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons
-            href="https://www.linkedin.com/in/jasurbekisokov/"
-            target="_blank"
-          >
+          <SocialIcons href="#" target="_blank">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://t.me/JaSurBeK_IsoKoV" target="_blank">
+          <SocialIcons href="#" target="_blank">
             <BiPaperPlane size="3rem" />
           </SocialIcons>
         </Div3>
