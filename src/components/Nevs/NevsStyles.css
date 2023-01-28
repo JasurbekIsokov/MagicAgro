@@ -122,3 +122,86 @@
   background-color: #0f1624;
   color: white;
 }
+
+/* Hero section text */
+
+#sectionText-text span:last-child {
+  display: none;
+}
+
+#sectionText-text {
+  width: 900px;
+}
+
+@media only screen and (max-width: 990px) {
+  #sectionText-text {
+    width: 800px;
+  }
+}
+
+@media only screen and (max-width: 850px) {
+  #sectionText-text {
+    width: 700px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #sectionText-text {
+    width: 560px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  #sectionText-text span:last-child {
+    display: inline-block;
+  }
+
+  #sectionText-text span:first-child {
+    display: none;
+  }
+
+  #sectionText-text {
+    width: 500px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  #sectionText-text {
+    width: 470px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  #sectionText-text {
+    width: 470px;
+  }
+}
+
+@media only screen and (max-width: 470px) {
+  #sectionText-text {
+    width: 420px;
+  }
+}
+@media only screen and (max-width: 440px) {
+  #sectionText-text {
+    width: 400px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  #sectionText-text {
+    width: 370px;
+  }
+}
+
+@media only screen and (max-width: 370px) {
+  #sectionText-text {
+    width: 340px;
+  }
+}
+
+@media only screen and (max-width: 340px) {
+  #sectionText-text {
+    width: 290px;
+  }
+}

@@ -12,15 +12,25 @@ import { LeftSection } from "./HeroStyles";
 
 const Hero = () => (
   <>
-    <Section row nopadding>
-      <LeftSection>
+    <Section row nopadding id="section">
+      <LeftSection id="sectionTextLeft">
         <SectionTitle main center>
           <Typed strings={[" MagicAgro"]} typeSpeed={60} />
         </SectionTitle>
-        <SectionText>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
-          exercitationem explicabo necessitatibus delectus dolore sunt corrupti
-          officiis aliquid laborum ex.
+        <SectionText id="sectionText">
+          <p id="sectionText-text">
+            O'simliklar, poliz ekinlari , daraxtlar va gullarni ekish va ularni
+            parvarish qilish. Expertlar va dexqonlardan kerakli tavsiyalar.
+            Kasallangan o'simliklarni suniy intelekt yordamida aniqlash va
+            yechim topish.
+            <span>
+              Kerakli ish kuchini taklif qilish va yollash. Agro texnikalarni
+              sotib olish va ijaraga olish. Mehsulotlarni online bozorda sotish
+              va sotib olish. Tadbirkorlar va mahsulot yetishtiruvchilarni
+              o'zaro bog'lash va hamkorlik qilish.
+            </span>
+            <span>..</span>
+          </p>
         </SectionText>
         <Button>
           <a href="#" rel="noopener noreferrer" style={{ color: "white" }}>

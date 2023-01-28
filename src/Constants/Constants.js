@@ -52,23 +52,23 @@ export const projects = [
 
 export const TimeLineData = [
   {
-    year: 10000,
-    text: "  Corporis exercitationem explicabo necessitatibus delectus dolore sunt .",
+    year: 1,
+    text: "Umid Rustamov. Project Manager | Team Leader.",
   },
   {
-    year: 10000,
-    text: "  Corporis exercitationem explicabo necessitatibus delectus dolore sunt .",
+    year: 2,
+    text: `Jasurbek Isokov.  Frontend Developer.`,
   },
   {
-    year: 10000,
-    text: "  Corporis exercitationem explicabo necessitatibus delectus dolore sunt .",
+    year: 3,
+    text: "Jamshid Kalandarov. Devops Ingener.",
   },
   {
-    year: 10000,
-    text: "  Corporis exercitationem explicabo necessitatibus delectus dolore sunt .",
+    year: 4,
+    text: "Abbos G'ulomov.  FullStack Softvare Ingener.",
   },
   {
-    year: 10000,
-    text: "  Corporis exercitationem explicabo necessitatibus delectus dolore sunt .",
+    year: 5,
+    text: "Mironshoh Asadov.  Backend Softvare Ingener.",
   },
 ];

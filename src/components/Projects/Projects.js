@@ -41,7 +41,7 @@ const Projects = () => (
               </div>
               <UtilityList>
                 {/* <ExternalLinks href={p.visit}>Code</ExternalLinks> */}
-                <ExternalLinks href={p.source}>Saytga O'tish</ExternalLinks>
+                <ExternalLinks href={p.source}>Sahifaga O'tish</ExternalLinks>
               </UtilityList>
             </BlogCard>
           </div>

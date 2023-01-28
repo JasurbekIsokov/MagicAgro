@@ -67,11 +67,9 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About</SectionTitle>
       <SectionText>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
-        exercitationem explicabo necessitatibus delectus dolore sunt corrupti
-        officiis aliquid laborum ex. Lorem ipsum dolor sit amet consectetur
-        adipisicing elit. Corporis exercitationem explicabo necessitatibus
-        delectus dolore sunt corrupti officiis aliquid laborum ex.
+        Istalgan biznez g'oyalarga mukammal yechimlar. Oddiy va murakkab
+        loyihalarni profissional tarzda amalga oshirish. Mablag'ingiz ,
+        vaqtingzi va energiyangizni tejang . Biz bian yanada rivojlaning !
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
