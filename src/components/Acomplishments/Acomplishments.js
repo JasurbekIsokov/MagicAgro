@@ -27,7 +27,7 @@ const Acomplishments = () => {
     } else if (id === 1) {
       window.location.replace("#");
     } else if (id === 2) {
-      window.location.replace("https://nextpage");
+      window.location.replace("#");
     } else if (id === 3) {
       window.location.replace("https:176.96.241.177:8000");
     }
