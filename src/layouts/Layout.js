@@ -39,12 +39,12 @@ export const Layout = ({ children }) => {
         <Div2>
           <li>
             <a href="#categoeis">
-              <NavLink>Bo'limlar</NavLink>
+              <NavLink>Ekosistema</NavLink>
             </a>
           </li>
           <li>
             <a href="#projects">
-              <NavLink>Loyihalar</NavLink>
+              <NavLink>Qo'llanmalar</NavLink>
             </a>
           </li>
           <li>
