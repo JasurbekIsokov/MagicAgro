@@ -44,22 +44,22 @@ export const projects = [
 export const TimeLineData = [
   {
     year: 1,
-    text: "Umid Rustamov. Project Manager | Team Leader.",
+    text: "Umid Rustamov. Project Manager | Team Leader",
   },
   {
     year: 2,
-    text: `Jasurbek Isokov.  Frontend Developer.`,
+    text: `Jasurbek Isokov.  Frontend Developer`,
   },
   {
     year: 3,
-    text: "Jamshid Kalandarov. Devops Ingener.",
+    text: "Jamshid Kalandarov. DevOps Engineer",
   },
   {
     year: 4,
-    text: "Abbos G'ulomov.  FullStack Softvare Ingener.",
+    text: "Abbos G'ulomov.  FullStack Software Engineer",
   },
   {
     year: 5,
-    text: "Mironshoh Asadov.  Backend Softvare Ingener.",
+    text: "Mironshoh Asadov.  Backend Software Engineer.",
   },
 ];

@@ -26,7 +26,7 @@ const Hero = () => (
         </SectionText>
         <Button>
           <a href="#" rel="noopener noreferrer" style={{ color: "white" }}>
-            Read More
+            Ko'proq o'qish...
           </a>
         </Button>
       </LeftSection>

@@ -50,7 +50,7 @@ const Nevs = () => {
                 <span>O</span>‘ZBEKISTON ISHTIROKIDAGI DUNYODAGI ENG KATTA
                 QIShLOQ XO‘JALIGI KO‘RGAZMASI DAVOM ETMOQDA
               </p>
-              <button>Read More</button>
+              <button>Ko'proq o'qish...</button>
             </div>
           </div>
           <div className="nevs__card">
@@ -60,7 +60,7 @@ const Nevs = () => {
                 <span>A</span>GROKLASTERLARDA “BETTER COTTON INITIATIVES”
                 STANDARTLARI JORIY ETILADI
               </p>
-              <button>Read More</button>
+              <button>Ko'proq o'qish...</button>
             </div>
           </div>
           <div className="nevs__card">
@@ -71,7 +71,7 @@ const Nevs = () => {
                 <span>M</span>EVALARNI SOVUTGICHDA SAQLASH: TALABLARI,
                 MUDDATLARI
               </p>
-              <button>Read More</button>
+              <button>Ko'proq o'qish...</button>
             </div>
           </div>
           <div className="nevs__card">
@@ -81,7 +81,7 @@ const Nevs = () => {
                 <span>Q</span>ISH MAVSUMI: SABZAVOT MAHSULOTLARINI SAQLASH VA
                 ZAXIRA QILISHDA NIMALARGA EʼTIBOR QARATISH KERAK?
               </p>
-              <button>Read More</button>
+              <button>Ko'proq o'qish...</button>
             </div>
           </div>
           <div className="nevs__card">
@@ -91,7 +91,7 @@ const Nevs = () => {
                 <span>"E</span>-AUKSION” ELEKTRON TANLOVI: DEHQONCHILIK VA
                 DAROMAD UCHUN QULAY IMKONIYAT
               </p>
-              <button>Read More</button>
+              <button>Ko'proq o'qish...</button>
             </div>
           </div>
           <div className="nevs__card">
@@ -101,7 +101,7 @@ const Nevs = () => {
               <p>
                 <span>Y</span>ERNI LAZER BILAN TEKISLASHNING AFZALLIKLARI
               </p>
-              <button>Read More</button>
+              <button>Ko'proq o'qish...</button>
             </div>
           </div>
         </Slider>

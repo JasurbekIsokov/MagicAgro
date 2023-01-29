@@ -32,7 +32,7 @@ const Footer = () => {
       <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>
-            Innovating one project at a time{" "}
+            Innovating one project at the time{" "}
             <LinkItem href="#"> MagicData</LinkItem>
           </Slogan>
         </CompanyContainer>
