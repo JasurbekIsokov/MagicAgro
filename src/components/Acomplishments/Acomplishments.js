@@ -30,7 +30,7 @@ const Acomplishments = () => {
 
   return (
     <Section id="categoeis">
-      <SectionTitle>Foydalanish bo'limari</SectionTitle>
+      <SectionTitle>Argo Ekosistemasi</SectionTitle>
       <Boxes>
         {data.map((card, index) => (
           <div data-aos={index % 2 === 0 ? "fade-right" : "fade-left"}>

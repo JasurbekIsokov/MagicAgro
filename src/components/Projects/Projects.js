@@ -23,7 +23,7 @@ import { projects } from "../../Constants/Constants";
 
 const Projects = () => (
   <Section nopadding id="projects">
-    <SectionTitle main>Loyihalar</SectionTitle>
+    <SectionTitle main>Foydali ochiq ma'lumotar</SectionTitle>
     <GridContainer>
       {projects.map((p, i) => {
         return (
@@ -40,8 +40,9 @@ const Projects = () => (
                 <TagList></TagList>
               </div>
               <UtilityList>
-                {/* <ExternalLinks href={p.visit}>Code</ExternalLinks> */}
-                <ExternalLinks href={p.source}>Sahifaga O'tish</ExternalLinks>
+                <ExternalLinks href={p.source} target="_blank">
+                  Sahifaga O'tish
+                </ExternalLinks>
               </UtilityList>
             </BlogCard>
           </div>

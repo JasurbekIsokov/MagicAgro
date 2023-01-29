@@ -65,7 +65,7 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <SectionTitle>About</SectionTitle>
+      <SectionTitle>Developers</SectionTitle>
       <SectionText>
         Istalgan biznez g'oyalarga mukammal yechimlar. Oddiy va murakkab
         loyihalarni profissional tarzda amalga oshirish. Mablag'ingiz ,

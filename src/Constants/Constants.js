@@ -7,45 +7,36 @@ import market from "../Assets/Images/market-2.jpg";
 
 export const projects = [
   {
-    title: "Agro Docs",
+    title: "Agro Qo'llanma",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur ipsum veritatis, ullam optio dolor doloribus corrupti et illo. Cumque, deleniti.",
+      "Sug'oriladigan maydonlarda ozuqabop ekinlarni yetishtirish. Fermerlar uchun o'quv-uslubiy qo'llanma. Ozuqabop ekinlarning eng yahshilaridan foydalanish. Mineral va organik o'g'itlardan hamda o'simliklarni zararkunandalardan himoya qilish vositalaridan oqilona foydalanish.",
     image: agro,
+    source: "http://my.vetgov.uz/opendata/3.pdf",
     id: 0,
   },
   {
-    title: "Agro Forum",
+    title: "Agro Qo'llanma",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur ipsum veritatis, ullam optio dolor doloribus corrupti et illo. Cumque, deleniti.",
+      "Qorabayir zotli otlarni asrash, boqish va tanlovi ishida kelgusida innovatsiya texnologiyalari. Fermerlar uchun o'quv-uslubiy qo'llanma. Qishloq hujjat mutahassislari, yilqichilik bilan shuqullanuvchi fermer, dexkon va tomorka er egalari, ilmiy hodimlar ushbu sohada olib borilayotgan ishlar.",
     image: tex,
+    source: "http://my.vetgov.uz/opendata/1.pdf",
+
     id: 0,
   },
   {
-    title: "Agro Detect",
+    title: "Agro Qo'llanma",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur ipsum veritatis, ullam optio dolor doloribus corrupti et illo. Cumque, deleniti.",
+      "Ko'p tarmoqli fermer xo'jaliklarida, aholi honadonlarida parrandalarni boqish hamda asrashga doir tavsiyalar. Ushbu qo'llanma xonadon egalari, chorvachilik bo'yicha talim olayotgan kollej va oliy o'quv yurtlari talabalarini uchun.",
     image: aaa,
+    source: "http://my.vetgov.uz/opendata/9.pdf",
     id: 0,
   },
   {
-    title: "Agro Job",
+    title: "Agro Qo'llanma",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur ipsum veritatis, ullam optio dolor doloribus corrupti et illo. Cumque, deleniti.",
+      "Uzbekistonda qo'ylarni parvarishlash, oziklantirish va naslchilik ishlari buyicha o'quv-uslubiy qo'llanma. Republicamizning tabiy iqlim kelib chiqib qorako'l qo'ylarni parvarishlash , oziqlantirish va naslchilik ishlariga",
     image: nav,
-    id: 0,
-  },
-  {
-    title: "Agro Tex",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur ipsum veritatis, ullam optio dolor doloribus corrupti et illo. Cumque, deleniti.",
-    image: tex,
-    id: 0,
-  },
-  {
-    title: "Agro Market",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur ipsum veritatis, ullam optio dolor doloribus corrupti et illo. Cumque, deleniti.",
-    image: market,
+    source: "http://my.vetgov.uz/opendata/9.pdf",
     id: 0,
   },
 ];
