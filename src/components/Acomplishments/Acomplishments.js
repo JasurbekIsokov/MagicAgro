@@ -22,9 +22,14 @@ const data = [
 const Acomplishments = () => {
   const handleClick = (id) => {
     console.log(id);
-
-    if (id === 1) {
+    if (id == 0) {
+      window.location.replace("https://magicagro.uz:3001");
+    } else if (id === 1) {
+      window.location.replace("#");
+    } else if (id === 2) {
       window.location.replace("https://nextpage");
+    } else if (id === 3) {
+      window.location.replace("https:176.96.241.177:8000");
     }
   };
 
